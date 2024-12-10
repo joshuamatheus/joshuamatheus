@@ -23,8 +23,10 @@ Hi I'm Joshua, I'm currently studying Computer Engeneering at Unicamp, I'm also 
 
 <div align="center">
   <a href="https://github.com/joshuamatheus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joshuamatheus&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuamatheus&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joshuamatheus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joshuamatheus&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
+
 
 ##
