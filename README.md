@@ -20,3 +20,11 @@ Hi I'm Joshua, I'm currently studying Computer Engeneering at Unicamp, I'm also 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuamrs/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joshmathrs/)
+
+<div align="center">
+  <a href="https://github.com/joshuamatheus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joshuamatheus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuamatheus&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+##
