@@ -27,15 +27,48 @@ Hi I'm Joshua, I'm currently studying Computer Engeneering at Unicamp, I'm also 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Top Languages -->
-  <a href="https://github.com/joshuamatheus">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuamatheus&hide=HTML,CSS,Java&layout=donut&hide_border=true&theme=vue" alt="Top Languages" />
-  </a>
-  
-  <!-- Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=joshuamatheus&theme=vue&hide_border=true&mode=weekly&card_width=450" alt="GitHub Streak" />
-  </a>
+ <details>
+  <summary style="font-size: 1.2em; font-weight: bold; color: #e74c3c; cursor: pointer;">GitHub Profile Stats 💻</summary>
+  <div align="center">
+    <h2 style="color: #2c3e50;">GitHub Stats</h2>
+    <details>
+      <summary align="left" style="font-size: 1.2em; font-weight: bold; color: #2980b9;">General</summary>
+        <table align="center">
+          <tr border="0">
+            <td width="50%" align="center"> 
+              <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=joshuamatheus&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+            </td>
+            <td width="50%" align="center">
+              <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=joshuamatheus&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats">
+            </td>
+          </tr>
+        </table>
+        <div align="center">
+          <p>
+            <a href="https://github.com/joshuamatheus" target="_blank">
+              <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuamatheus&theme=gruvbox&hide_border=true" alt="GitHub Profile Summary" style="border-radius: 10px; margin: 0 5px;">
+            </a>
+          </p>
+        </div>
+    </details>
+    <details>
+      <summary align="left" style="font-size: 1.2em; font-weight: bold; color: #2980b9;">Language</summary>
+        <table align="center">
+          <tr border="0">
+            <td width="50%" align="center"> 
+              <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joshuamatheus&theme=gruvbox&layout=compact&hide_border=true" alt="Top Langs by repo">
+              <br></br>
+              <img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joshuamatheus&theme=gruvbox&layout=compact&hide_border=true" alt="Top Langs by commit">
+            </td>
+            <td width="50%" align="center">
+              <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuamatheus&langs_count=6&theme=gruvbox&hide_border=true" alt="Overall Top Langs">
+            </td>
+          </tr>
+        </table>
+    </details>
+  </div>
+</details>
+
 </div>
 
 ### Connect with me:
