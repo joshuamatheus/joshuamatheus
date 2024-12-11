@@ -2,11 +2,12 @@
 
 
 Hi I'm Joshua, I'm currently studying Computer Engeneering at Unicamp, I'm also study iOS development at Apple Developer Academy, I adore the universe of computing and I've a passion for robotics, cybersecurity and mobile development.
-<!--- snake -->
 <div align="center">
-  <!-- Snake Animation -->
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="/resources/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
+  </a>
 </div>
+
 
 ---
 
